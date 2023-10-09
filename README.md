@@ -46,3 +46,14 @@ If you want to share an infographic or summary graphic from this data - please c
 |diagnosed |double    | Number diagnosed |
 |year      |integer   | Year for observation|
 
+## Deliverables 
+The following are the outcomes expected from the project: 
+1. Create a logical and physical SQL Schema - Have it separate and upload it to your GitHub repo
+2. Create the the Databases and the tables to contain the data - millitary, age, year - Have it separate and upload it to your GitHub repo
+3. Load the data to Power BI and Perform transformations - e.g cleaning the age column, formatting datatypes 
+4. Develop Power BI Visualizations 
+5. Develop a Power BI - Dashboard 
+6. Presentation with Insights. 
+
+
+
